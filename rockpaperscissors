@@ -39,11 +39,11 @@ def play_game(rounds):
             break
 
     if player_score > computer_score:
-        print("You win the game!")
+        print("You are the winner!")
     elif player_score < computer_score:
         print("Computer wins the game!")
     else:
-        print("It's a tie game!")
+        print("It's a tie!")
 
 def main():
     print("Welcome to Rock/Paper/Scissors game!")
