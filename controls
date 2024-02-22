@@ -1,0 +1,23 @@
+balance = 500
+
+if (balance > 3000):
+    print ("rich")
+else:
+    print ("hustle")
+
+age =int(input ("input your age"))
+if (age >= 18):
+    print ( "you are an adult now")
+
+elif (age == 15):
+    print ("lived")
+else:
+    print ("i dont want")
+    
+
+
+
+
+
+
+    

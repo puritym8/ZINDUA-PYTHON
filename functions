@@ -1,0 +1,9 @@
+def greetings (name):
+    print (f"hello, {name}")
+
+
+greetings ("makena")
+
+
+name = input ("enter a name")
+greetings (name)

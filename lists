@@ -1,0 +1,7 @@
+numbers = [1,2,3,10]
+fruits = ["apple", "avocado"]
+
+cars = []
+
+print(fruits[0])
+

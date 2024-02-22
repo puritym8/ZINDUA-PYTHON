@@ -1,0 +1,6 @@
+words = {
+    "city": "gjdfjk"
+    "kenya": "hyybsd"
+}
+
+print(words["city"])
