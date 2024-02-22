@@ -1,0 +1,17 @@
+balance = 2000
+
+if (balance >300):
+    print ("rich")
+
+else
+    print (balance < 100)
+
+x = 5
+if (x<2):
+    print ("small")
+    print ("very small")
+
+    
+
+
+
