@@ -1,0 +1,8 @@
+def phone_bill(usage):
+    return usage*45
+
+
+
+bill = int(input("Enter the usage: "))
+
+print(f"The phone_bill of {bill} is {phone_bill(bill)}.")

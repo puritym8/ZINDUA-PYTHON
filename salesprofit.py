@@ -8,8 +8,8 @@ print (numberofunits*sellingpriceperunit)  #revenue
 revenue = numberofunits*sellingpriceperunit
 costofsales = numberofunits * costperunit
 
-print (revenue - costofsales)
-
+profit = (revenue - costofsales)
+print (profit)
 
 
 
